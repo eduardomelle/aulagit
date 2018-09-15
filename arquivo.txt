@@ -1,3 +1,5 @@
-Primeira linha
+Primeira --- linha
+Linha do meio
 Minha primeira alteração no projeto
 Última linha
+Nova última linha
